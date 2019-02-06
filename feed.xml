@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
-<link href="https://bgta.keybase.pub//feed.xml" rel="self" type="application/atom+xml" />
-<link href="https://bgta.keybase.pub//" rel="alternate" type="text/html" />
-<updated>2019-02-06T07:06:33+01:00</updated>
-<id>https://bgta.keybase.pub//</id>
+<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+<updated>2019-02-06T07:20:01+01:00</updated>
+<id>http://localhost:4000/</id>
 <title>Raúl Romero García</title>
 <subtitle>IT Project Manager/Senior Analyst Programmer</subtitle>
 <entry>
 <title>Keybase.io: verifica tu perfil, cifra tus ficheros y mensajes.</title>
-<link href="https://bgta.keybase.pub//2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes" rel="alternate" type="text/html" title="Keybase.io: verifica tu perfil, cifra tus ficheros y mensajes." />
+<link href="http://localhost:4000/2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes" rel="alternate" type="text/html" title="Keybase.io: verifica tu perfil, cifra tus ficheros y mensajes." />
 <published>2017-10-25T00:00:00+02:00</published>
 <updated>2017-10-25T00:00:00+02:00</updated>
-<id>https://bgta.keybase.pub//2017/10/25/Keybase.io: Verifica tu perfil, cifra tus ficheros y mensajes.</id>
-<content type="html" xml:base="https://bgta.keybase.pub//2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes">&lt;p&gt;&lt;a href=&quot;http://keybase.io&quot;&gt;Keybase.io&lt;/a&gt; está tratando de darle &lt;strong&gt;un aspecto social a
+<id>http://localhost:4000/2017/10/25/Keybase.io: Verifica tu perfil, cifra tus ficheros y mensajes.</id>
+<content type="html" xml:base="http://localhost:4000/2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes">&lt;p&gt;&lt;a href=&quot;http://keybase.io&quot;&gt;Keybase.io&lt;/a&gt; está tratando de darle &lt;strong&gt;un aspecto social a
 toda la era del cifrado&lt;/strong&gt;, para hacerlo más accesible a todo el mundo, y no solo
 me parece una gran idea, sino que me he enamorado de ella.&lt;/p&gt;
 
