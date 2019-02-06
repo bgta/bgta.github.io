@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
+<generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
 <link href="https://bgta.keybase.pub//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://bgta.keybase.pub//" rel="alternate" type="text/html" />
-<updated>2018-11-13T06:18:31+01:00</updated>
+<updated>2019-02-06T06:48:21+01:00</updated>
 <id>https://bgta.keybase.pub//</id>
 <title>Raúl Romero García</title>
 <subtitle>IT Project Manager/Senior Analyst Programmer</subtitle>
@@ -132,7 +132,7 @@ keybase help prove  # help with proofs
                     # etc.
 keybase version              # print the version number
 keybase help                 # get help
-keybase signup               # if you&#39;ve never used Keybase
+keybase signup               # if you've never used Keybase
 keybase login                # or...if you already have an account
 keybase prove twitter        # prove you own a twitter account
 keybase prove github         # prove a github account
@@ -140,7 +140,7 @@ keybase prove reddit         # prove a reddit account
 keybase prove facebook       # prove a facebook
 keybase prove hackernews     # prove an HN account
 keybase prove https you.com  # prove a website
-keybase prove http you.com   # if you don&#39;t have a legit cert
+keybase prove http you.com   # if you don't have a legit cert
 keybase prove dns you.com    # prove via a DNS entry
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
