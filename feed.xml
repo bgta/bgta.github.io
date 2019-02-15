@@ -3,10 +3,40 @@
 <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
 <link href="https://www.bgta.net//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://www.bgta.net//" rel="alternate" type="text/html" />
-<updated>2019-02-15T06:18:07+01:00</updated>
+<updated>2019-02-15T07:10:06+01:00</updated>
 <id>https://www.bgta.net//</id>
 <title>Raúl Romero García</title>
 <subtitle>IT Project Manager/Senior Analyst Programmer</subtitle>
+<entry>
+<title>Idea: declaración electronica de accidente en tu smartphone.</title>
+<link href="https://www.bgta.net//2019/02/15/iDEA-Declaraci%C3%B3n-Electronica-de-Accidente-en-tu-Smartphone" rel="alternate" type="text/html" title="Idea: declaración electronica de accidente en tu smartphone." />
+<published>2019-02-15T00:00:00+01:00</published>
+<updated>2019-02-15T00:00:00+01:00</updated>
+<id>https://www.bgta.net//2019/02/15/iDEA: Declaración Electronica de Accidente en tu Smartphone.</id>
+<content type="html" xml:base="https://www.bgta.net//2019/02/15/iDEA-Declaraci%C3%B3n-Electronica-de-Accidente-en-tu-Smartphone">&lt;p&gt;Por desgracia, esta semana he sufrido un accidente de coche. Nada grave, ni tan solo fué culpa mía. Hacía muchos años que no tenía la necesidad de hacer un parte amistoso, pero gracias a la compañía que tengo actualmente, &lt;a href=&quot;https://www.helvetia.es/&quot;&gt;Helvetia&lt;/a&gt; descubrí que existe una aplicacción móvil que sirve para realizar los partes amistosos en caso de siniestro: &lt;a href=&quot;https://declaracionidea.es/&quot;&gt;App Declaración iDEA®&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;La &lt;a href=&quot;https://declaracionidea.es/&quot;&gt;App Declaración iDEA®&lt;/a&gt; envía automáticamente el parte acordado entre los conductores implicados en un accidente, a las aseguradoras responsables de ambos vehículos. Es increiblemente sencillo su uso y te ahorra mucha burocracia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/imgs/posts/idea1.png&quot; alt=&quot;App Declaración iDEA Captura&quot; width=&quot;200px&quot; /&gt;
+&lt;img src=&quot;/imgs/posts/idea2.png&quot; alt=&quot;App Declaración iDEA Captura&quot; width=&quot;200px&quot; /&gt;
+&lt;img src=&quot;/imgs/posts/idea3.png&quot; alt=&quot;App Declaración iDEA Captura&quot; width=&quot;200px&quot; /&gt;
+&lt;img src=&quot;/imgs/posts/idea4.png&quot; alt=&quot;App Declaración iDEA Captura&quot; width=&quot;200px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/imgs/posts/idea5.png&quot; alt=&quot;App Declaración iDEA Captura&quot; width=&quot;200px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para empezar, en la pantalla principal, tan solo tenemos que dar de alta nuestro vehículo, que lo tendremos disponible para todos los futuros partes. Podemos agregar más de un coche si és necesario.&lt;/p&gt;
+
+&lt;p&gt;Una vez hecho esto, tan solo tenemos que agregar un nuevo parte y rellenar comodamente y paso a paso lo que la aplicación nos indica como podemos ver en las capturas.&lt;/p&gt;
+
+&lt;p&gt;Una vez finalizado y le demos a enviar, al otro conductor le llegará un SMS con un enlace al informe del parte, donde podrá aceptarlo o no. Si lo acepta, automaticamente se enviará una copia a ambas compañias.&lt;/p&gt;
+
+&lt;p&gt;¿Qué os parece?&lt;/p&gt;
+</content>
+<author>
+<name>Raúl Romero García</name>
+</author>
+<summary>Por desgracia, esta semana he sufrido un accidente de coche. Nada grave, ni tan solo fué culpa mía. Hacía muchos años que no tenía la necesidad de hacer un parte amistoso, pero gracias a la compañía que tengo actualmente, Helvetia descubrí que existe una aplicacción móvil que sirve para realizar los partes amistosos en caso de siniestro: App Declaración iDEA®.</summary>
+</entry>
 <entry>
 <title>Keybase.io: verifica tu perfil, cifra tus ficheros y mensajes.</title>
 <link href="https://www.bgta.net//2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes" rel="alternate" type="text/html" title="Keybase.io: verifica tu perfil, cifra tus ficheros y mensajes." />
