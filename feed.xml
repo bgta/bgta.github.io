@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
 <link href="https://www.bgta.net//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://www.bgta.net//" rel="alternate" type="text/html" />
-<updated>2019-02-15T07:10:06+01:00</updated>
+<updated>2019-02-27T08:26:16+01:00</updated>
 <id>https://www.bgta.net//</id>
 <title>Raúl Romero García</title>
 <subtitle>IT Project Manager/Senior Analyst Programmer</subtitle>
@@ -173,6 +173,14 @@ keybase prove https you.com  # prove a website
 keybase prove http you.com   # if you don't have a legit cert
 keybase prove dns you.com    # prove via a DNS entry
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;cartera-para-criptomonedas-lumenauts&quot;&gt;Cartera para Criptomonedas (Lumenauts)&lt;/h4&gt;
+
+&lt;p&gt;Recientemente, una nueva pestaña ‘Wallet/Cartera’ ha aparecido en la aplicación de &lt;strong&gt;Keybase&lt;/strong&gt;, tando en escritorio como en móvil. Ahora, todos los usuarios de Keybase pueden transferir &lt;a href=&quot;https://coinlist.me/es/altcoins/stellar/&quot;&gt;XLM (Lumenauts)&lt;/a&gt; en cuestión de segundos. Además de eso, no se les cobrará ninguna tarifa por enviar fondos de sus carteras.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/imgs/posts/keybasewallet1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Keybase enfatiza que valora la privacidad de sus usuarios, por lo que no se expondrán claves privadas a su servidor. Además, intentan hacer que las transacciones en criptomoneda sean lo más simples posible al deshacerse de las direcciones de billetera largas (solo se necesitan nombres de usuario para realizar la transacción).&lt;/p&gt;
 
 &lt;h4 id=&quot;un-proyecto-open-source&quot;&gt;Un proyecto Open Source&lt;/h4&gt;
 
