@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.bgta.net//2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes</loc>
+<loc>http://localhost:4000/2017/10/25/Keybase.io-Verifica-tu-perfil,-cifra-tus-ficheros-y-mensajes</loc>
 <lastmod>2017-10-25T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.bgta.net//2019/02/15/iDEA-Declaraci%C3%B3n-Electronica-de-Accidente-en-tu-Smartphone</loc>
+<loc>http://localhost:4000/2019/02/15/iDEA-Declaraci%C3%B3n-Electronica-de-Accidente-en-tu-Smartphone</loc>
 <lastmod>2019-02-15T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>https://www.bgta.net//</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
