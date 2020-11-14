@@ -9,6 +9,9 @@ body {
 a:hover {
   text-decoration: none; }
 
+.navbar-collapse {
+  max-width: 35%; }
+
 .sidebar {
   position: fixed;
   left: 0px;
@@ -243,6 +246,9 @@ section {
   margin-bottom: 20px; }
 
 @media (max-width: 767px) {
+  .navbar-collapse {
+    max-width: 100%; }
+
   .sidebar {
     position: static;
     width: 100%;
@@ -309,8 +315,5 @@ section {
   bottom: 0;
   transform: rotate(-45deg);
   transition: bottom 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1); }
-
-.navbar-collapse {
-  max-width: 35%; }
 
 /*# sourceMappingURL=styles.css.map */
